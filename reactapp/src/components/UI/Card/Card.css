@@ -1,0 +1,13 @@
+.card {
+  background-color: #9f5f80;
+  width: min(600px, calc(100vw - 64px));
+  margin: 32px 0;
+  padding: 16px;
+  border-radius: 4px;
+  text-align: left;
+}
+
+.header {
+  color: #fff;
+  margin-top: 0;
+}

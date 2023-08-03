@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.card-wrapper, .quiz-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.result {
+  width: min(600px, calc(100vw - 64px));
+  background-color: #ff8e71;
+  padding: 16px;
+  border-radius: 4px;
+  font-weight: 600;
+}
